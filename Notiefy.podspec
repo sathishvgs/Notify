@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Notiefy'
-  s.version          = '1.5'
+  s.version          = '1.6'
   s.summary          = 'Sweet For Notify'
 
   s.description      = "A sweet for notify updates"
